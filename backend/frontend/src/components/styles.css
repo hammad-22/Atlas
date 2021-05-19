@@ -1,0 +1,72 @@
+html, body, body > div, .app {
+    background-color: #0E1C2F;
+    font-family: sans-serif;
+    height: 97vh;
+    margin: 0;
+    padding: 0;
+  }
+
+.login, .registerClass {
+    color: white;
+    width: 300px;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.login-radio {
+    width: 430px;
+    text-align: center;
+    margin-right: 10px;
+}
+
+.form-check {
+    float: left;
+    margin-right: 100px;
+}
+
+.register-link {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.display-1 {
+    font-family: 'Space Mono', monospace;
+    color: #27BCFD;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+.display-5 {
+    font-family: sans-serif;
+    color: white;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.display-4 {
+    font-family: 'Space Mono', monospace;
+    color: #27BCFD;
+    text-align: left;
+}
+h6 {
+    color:white;
+}
+
+#stockSelectionId {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    color:white;
+    margin-top: 60px;
+}
+
+#stocksContainerId {
+    color:white;
+    margin-top: 60px;
+    margin-left: 50px;
+}
